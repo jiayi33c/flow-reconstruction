@@ -1,0 +1,9 @@
+outputs/
+*.pt
+*.pkl
+*.npy
+*.gif
+*.mp4
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
