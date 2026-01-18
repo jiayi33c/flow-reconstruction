@@ -7,3 +7,4 @@ outputs/
 *.ipynb
 .ipynb_checkpoints/
 __pycache__/
+!reconstruction_irregular_clean.ipynb
