@@ -6,4 +6,6 @@ To assess generalization to out-of-distribution data, the model was evaluated on
 
 ## Reference
 
+Shu, D., Li, Z., & Farimani, A. B. A physics-informed diffusion model for high-fidelity flow field reconstruction. *arXiv:2211.14680v2*, 2023. https://arxiv.org/abs/2211.14680
+
 Based on [NVIDIA PhysicsNemo Flow Reconstruction Diffusion](https://github.com/NVIDIA/physicsnemo/tree/main/examples/cfd/flow_reconstruction_diffusion)
